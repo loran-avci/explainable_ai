@@ -1,5 +1,6 @@
 # Explainable Deep Neural Networks for MRI Based Stroke Analysis
 
+![alt text](https://github.com/loran-avci/explainable_ai/blob/master/img/example.PNG?raw=true)
 
 Currently, most deep learning models are still black-box methods. Particularly
 in medical applications, not only the performance but also the explainability of
